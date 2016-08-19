@@ -7,3 +7,4 @@
 
 var test = "I'm a test";
 
+var test2 = "Hardy har har test2";
